@@ -1,0 +1,28 @@
+{
+    "name": "huo-zi/laravel-image-factory",
+    "description": "laravel 图片格式化工厂",
+    "type": "library",
+    "keywords": [
+        "image-factory",
+        "ImageFactory",
+        "laravel",
+        "image",
+        "huozi"
+    ],
+    "homepage": "https://github.com/huo-zi/laravel-image-factory",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "huo-zi",
+            "email": "lio990527@163.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Huozi\\ImageFactory\\": "src"
+        }
+    },
+    "require-dev": {
+        "laravel/framework": "^8.0"
+    }
+}
