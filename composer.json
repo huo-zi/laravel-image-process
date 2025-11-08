@@ -1,15 +1,15 @@
 {
-    "name": "huo-zi/laravel-image-factory",
-    "description": "laravel image format factory",
+    "name": "huo-zi/laravel-image-process",
+    "description": "laravel image process format resize crop",
     "type": "library",
     "keywords": [
-        "image-factory",
-        "ImageFactory",
+        "image-process",
+        "ImageProcess",
         "laravel",
         "image",
         "huozi"
     ],
-    "homepage": "https://github.com/huo-zi/laravel-image-factory",
+    "homepage": "https://github.com/huo-zi/laravel-image-process",
     "license": "MIT",
     "authors": [
         {
@@ -28,7 +28,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Huozi\\ImageFactory\\ServiceProvider"
+                "Huozi\\ImageProcess\\ServiceProvider"
             ]
         }
     }
